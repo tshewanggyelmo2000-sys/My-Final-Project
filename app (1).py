@@ -223,7 +223,7 @@ model, metrics = train_model(data)
 
 st.title("Student Wellbeing in Bhutan")
 st.caption(
-    "A beginner machine-learning project using 800 fictional records"
+    "A beginner machine-learning project using 800 Total records"
 )
 st.warning(
     "This app is not a medical or diagnostic tool. The result must not be "
