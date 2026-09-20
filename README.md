@@ -238,8 +238,8 @@ This repository is a student learning project. The application and its predictio
 
 ## Author
 
-**Student name:** Add your name  
+**Student name:** Tshewang Gyelmo  
 **Institution:** Add your institution  
-**Course:** Add your course  
+**Course:** AI foundation  
 **Year:** 2026
 
